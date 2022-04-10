@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate with other content creators
-- 📫Goals-Contribute more time on learning Coding,Web Development ,C++,Python,Java.
+- 📫Goals-Contribute more time in learning-Web Development ,C++,Python,Java.
 
 <!---
 Pampita22/Pampita22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
